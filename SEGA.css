@@ -73,11 +73,11 @@ Free for personal use and non-profit sharing!
 }
 .custom .bumper.left.pressed{
     opacity: 1;
-    width: 60px;
-    height: 80px;
+    width: 62px;
+    height: 63px;
     left: 612px;
     top: 153px;
-    background-position: -140px -200px;
+    background-position: -132px -252px;
     float: right;
 }
 /* This is to size and position the containing div for the 
