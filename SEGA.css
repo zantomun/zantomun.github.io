@@ -46,7 +46,7 @@ Free for personal use and non-profit sharing!
     width: 200px;
     height: 127px;
     top: 0px;
-    left:413px;
+    left:415px;
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
     background-position-x: -1px;
@@ -54,7 +54,7 @@ Free for personal use and non-profit sharing!
 }
 .custom .bumper{
     width: 256px;
-    height: 200px;
+    height: 420px;
     left: 472px;
     top: 162px;
     background: url(CZ.png);
