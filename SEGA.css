@@ -23,8 +23,8 @@ Free for personal use and non-profit sharing!
  .custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
  width: 250px;
     height: 333px;
-    left: 100px;
-    top: 101px;
+    left: 120px;
+    top: 201px;
     position: absolute;
     background-repeat:no-repeat;
 } 
