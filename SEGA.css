@@ -24,8 +24,8 @@ Free for personal use and non-profit sharing!
  .custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
  width: 250px;
     height: 333px;
-    left: 120px;
-    top: 201px;
+    left: 100px;
+    top: 101px;
     position: absolute;
     background-repeat:no-repeat;
 } 
@@ -94,8 +94,8 @@ start and select buttons. */
 .custom .back{ 
     position: absolute;
     background: url(select.png);
-    width: 80px;
-    height: 35px;
+    width: 40px;
+    height: 19px;
     opacity: 0;
     background-repeat:no-repeat;
 }
@@ -103,13 +103,13 @@ start and select buttons. */
     /*background-position-y: -1px;*/
     top: 36px;
     left: 72px;
-    width: 80px;
-    height: 35px;
+    width: 43px;
+    height: 43px;
     opacity: 1;
 }
 .custom .start{
     background: url(start.png);
-    width: 80px;
+    width: 60px;
     height: 35px;
      opacity: 1;
     background-repeat:no-repeat;
@@ -126,10 +126,10 @@ start and select buttons. */
 .custom .abxy{
     opacity: 1;
     position: absolute;
-    width: 256px;
-    height: 420px;
-    left: 472px;
-    top: 162px;
+    width: 194px;
+    height: 216px;
+    left: 482px;
+    top: 159px;
     background: url(ABXY.png);
     background-repeat:no-repeat;
 }
@@ -143,35 +143,37 @@ start and select buttons. */
 }
 .custom .button.a.pressed{
     opacity: 1;
-    background-position: -18px -339px;
-    top: 130px;
-    left: 19px;
-    width: 80px;
-    height: 80px;
+    background-position: -18px -333px;
+    top: 132px;
+    left: 17px;
+    width: 87px;
+    height: 86px;
+    border-radius: 45px;
 }
 .custom .button.b.pressed{
     opacity: 1;
-    background-position: -97px -294px;
-    top: 85px;
-    left: 97px;
-    width: 80px;
-    height: 80px;
+    background-position: -97px -289px;
+    top: 88px;
+    left: 96px;
+    width: 85px;
+    height: 85px;
+    border-radius: 45px;
 }
 .custom .button.x.pressed{
     opacity: 1;
-    background-position: 0px -260px;
+    background-position: 0px -251px;
     top: 50px;
     left: 0px;
     width: 65px;
-    height: 65px;  
+    height: 65px;
 }
 .custom .button.y.pressed{
     opacity: 1;
-    background-position: -70px -230px;
-    top: 20px;
+    background-position: -70px -214px;
+    top: 13px;
     left: 70px;
-    width: 65px;
-    height: 65px;
+    width: 68px;
+    height: 69px;
 }
 /* Dpad possitioning and sizing */
 .custom .dpad{
