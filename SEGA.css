@@ -81,8 +81,9 @@ Free for personal use and non-profit sharing!
     float: right;
 }
 /* This is to size and position the containing div for the 
-start and select buttons. */
-.custom .arrows{
+
+and select buttons. */
+.custom .{
     position: absolute;
     width: 205px;
     height: 19px;
@@ -178,8 +179,8 @@ start and select buttons. */
 /* Dpad possitioning and sizing */
 .custom .dpad{
     position: absolute;
-    width: 221px;
-    height: 222px;
+    width: 250px;
+    height: 300px;
     top: 193px;
     left: 132px;
 }
