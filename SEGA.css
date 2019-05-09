@@ -22,10 +22,10 @@ Free for personal use and non-profit sharing!
     display: none;
 }
  .custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
- width: 250px;
+    width: 250px;
     height: 333px;
-    left: 100px;
-    top: 101px;
+    left: 91px;
+    top: 71px;
     position: absolute;
     background-repeat:no-repeat;
 } 
