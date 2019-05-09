@@ -86,8 +86,8 @@ start and select buttons. */
     position: absolute;
     width: 205px;
     height: 19px;
-    top: 250px;
-    left: 291px;
+    top: 291px;
+    left: 290px;
     background-repeat:no-repeat;
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
