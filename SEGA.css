@@ -86,16 +86,16 @@ start and select buttons. */
     position: absolute;
     width: 205px;
     height: 19px;
-    top: 291px;
+    top: 248px;
     left: 290px;
     background-repeat:no-repeat;
 }
-/* Setting the size and CSS sprite for the start adn select buttons */
+/* Setting the size and CSS sprite for the start and select buttons */
 .custom .back{ 
     position: absolute;
     background: url(select.png);
-    width: 40px;
-    height: 19px;
+    width: 60px;
+    height: 35px;
     opacity: 0;
     background-repeat:no-repeat;
 }
@@ -103,8 +103,8 @@ start and select buttons. */
     /*background-position-y: -1px;*/
     top: 36px;
     left: 72px;
-    width: 43px;
-    height: 43px;
+    width: 60px;
+    height: 35px;
     opacity: 1;
 }
 .custom .start{
